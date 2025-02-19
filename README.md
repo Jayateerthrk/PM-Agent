@@ -19,3 +19,6 @@ A team of Agents to help Product Manager analyse the competition and provide rec
 4. config.py : Configure Groq API
 5. Create .env file and assign Groq API key to varibale GROQ_API_KEY
 
+## Screenshot of App
+
+<img width="1364" alt="Screenshot 2025-02-19 at 3 51 09 PM" src="https://github.com/user-attachments/assets/f2e6a2a5-a164-47f7-abf6-89f3474da322" />
