@@ -8,7 +8,13 @@ A team of Agents to help Product Manager analyse the competition and provide rec
 4. LLM : llm_llama70b
 
 ## Agents
-  1. competitor_analyst : To identify and analyse the competetors
-  2. feature_comparison : compare the feature of competetive products
-  3. strategic_advisor : Based on analysis, provide strategic recommendations
+  1. Competitor Analyst Agent
+  2. Feature Comparison Specialist Agent
+  3. Strategic Advisor Agent
+
+## Notes:
+1. Streamlitapp.py : Uses streamlit for UI
+2. app.py : Runs on the local terminal without UI
+3. requirements.txt : Required libraries
+4. config.py : Configure Groq API
 
