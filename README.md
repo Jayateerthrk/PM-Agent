@@ -17,4 +17,5 @@ A team of Agents to help Product Manager analyse the competition and provide rec
 2. app.py : Runs on the local terminal without UI
 3. requirements.txt : Required libraries
 4. config.py : Configure Groq API
+5. Create .env file and assign Groq API key to varibale GROQ_API_KEY
 
