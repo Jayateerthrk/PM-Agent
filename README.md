@@ -39,19 +39,23 @@ The input (product name) is passed to the Crew AI system.
 Agent Tasks Execution:
 The workflow is composed of several tasks managed by different agents:
 
-Competitor Analyst Agent:
+1. Competitor Analyst Agent:
 Goal: Identify the main competitors for the product.
 Task: Produce a competitor analysis document, including a SWOT analysis for each competitor.
-Feature Comparison Specialist Agent:
+
+2. Feature Comparison Specialist Agent:
 Goal: Compare the product's features against its competitors.
 Task: Generate a detailed feature comparison report, highlighting strengths, weaknesses, and opportunities.
-Strategic Advisor Agent:
+
+3. Strategic Advisor Agent:
 Goal: Provide strategic recommendations based on the analysis.
 Task: Synthesize insights from the previous tasks and generate actionable recommendations along with a roadmap and resource guidance.
 Final Report Generation:
 
 The outputs from the agents are combined to form a final report.
+
 This report is displayed in the UI and also converted into a downloadable PDF.
+
 User Output:
 
 The final report is shown on the Streamlit app.
